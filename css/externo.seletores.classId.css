@@ -1,0 +1,17 @@
+.texto-principal{
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+	font-family: arial;
+}
+
+.fundo-principal {
+	background-color: #eee;
+	padding: 20px;
+}
+
+#conteudo {
+	background-color: blue;
+	padding: 20px;
+	color: green;
+}
