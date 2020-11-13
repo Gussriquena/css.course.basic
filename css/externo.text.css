@@ -1,0 +1,28 @@
+p{
+	color: blue;
+	text-transform: capitalize;
+	text-align: justify;
+	text-indent: 20px;
+	line-height: 25px;
+	direction: ltr;
+	letter-spacing: 1px;
+	word-spacing: 0px;
+}
+
+h1{
+	text-align: left;
+	text-decoration: underline;
+	/* horizontal position, vertical position, blur, color */
+	text-shadow: 1px 1px 1px red;
+}
+
+h2{
+	text-align: right;
+	text-decoration: overline;
+}
+
+h3 {
+	text-align:center;
+	text-decoration: line-through;
+}
+
